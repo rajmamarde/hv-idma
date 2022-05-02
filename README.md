@@ -2,7 +2,7 @@
 Data Science, Machine Learning and AI Projects
 
 ### Project - 1 | Retention analysis case study
-#### Description
+#### Description :-
 With an in-depth understanding of the customers’ churn reasons, it is easier to design a data-driven customer retention strategy. 
 This retention analysis case study, gathers and presents deeper customer insights using KPIs with supporting data summaries and charts.
 
